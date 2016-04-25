@@ -2,7 +2,7 @@
 
 const p1 = new Promise((resolve, reject) => {
 	setTimeout(()=>{
-		resolve('Memer');
+		resolve('Dog');
 	}, 3000)
 });
 
